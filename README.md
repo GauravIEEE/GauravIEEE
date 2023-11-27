@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravIEEE
 - 👀 I’m interested in volunteering.
-- 🌱 I’m currently learning Web Development (Full Stack).
+- 🌱 I’m currently learning Python Programming, skills required for a Data Analyst and Computer Networks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
